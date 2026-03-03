@@ -1,7 +1,7 @@
 {
   "id": "Vamtaria",
   "name": "Vamtaria",
-  "description": "มาม่า",
+  "description": "test ยังไม่ใช่ mod Pack จริงนี่คือการ test หรือว่าทดสอบ mod อยู่และทดสอบ launcher อาจไม่ใช่ mod Pack ของจริง",
   "version": "1.0.0",
   "minecraftVersion": "1.20.1",
   "loaderType": "fabric",
